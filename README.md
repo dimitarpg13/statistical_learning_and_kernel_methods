@@ -1,1 +1,1 @@
-# Statistical Learning, Kernel Methods, Boltzman Machines, KANs 
+# Statistical Learning, Kernel Methods, Kernel Machines, KANs 
