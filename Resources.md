@@ -1,4 +1,4 @@
-# Resources on Statistical Learning, Kernel Methods and KANs
+# Resources on Statistical Learning, Kernel Methods, Support Vector Machines, Boltzman Machines, and KANs
 
 ## books
 
