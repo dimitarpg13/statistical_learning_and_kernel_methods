@@ -12,3 +12,5 @@
 [Wav-KAN: Wavelet Kolmogorov-Arnold Networks, Z. Bozorgasi et al, IEEE, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Wav-KAN-Wavelet_Kolmogorov-Arnold_Networks_Bozorgasi_2024.pdf)
 
 [KAN: Why and How Does It Work? A Deep Dive, Saptashwa Bhattacharyya, Medium, 2024](https://towardsdatascience.com/kan-why-and-how-does-it-work-a-deep-dive-1adab4837fa3)
+
+[Kolmogorov–Arnold Networks Are About To Change The AI World Forever, Manushi Mukhi, 2024](https://medium.com/accredian/kolmogorov-arnold-networks-kan-are-about-to-change-the-ai-world-forever-687f6d0b4d93)
