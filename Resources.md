@@ -15,6 +15,8 @@
 
 [Kolmogorov–Arnold Networks Are About To Change The AI World Forever, Manushi Mukhi, 2024](https://medium.com/accredian/kolmogorov-arnold-networks-kan-are-about-to-change-the-ai-world-forever-687f6d0b4d93)
 
+[Implementing a Kolmogorov-Arnold Network with PyTorch, Robert McMenemy, Medium, 2024](https://rabmcmenemy.medium.com/implementing-a-kolmogorov-arnold-network-with-pytorch-5409ce803fab)
+
 ### Generalized Additive Models
 
 [Generalized Additive Models, T. Hastie, R. Tibshirani, 1986](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/additive_models/Generalized_Additive_Models_Hastie_1986.pdf)
