@@ -24,3 +24,9 @@
 [Additive Decision Trees, W. Brett Kennedy, May 2024, Towards Data Science](https://towardsdatascience.com/additive-decision-trees-85f2feda2223)
 
 related githib repo: https://github.com/Brett-Kennedy/AdditiveDecisionTree
+
+### kNN
+
+[Interpretable kNN (ikNN), W Brett Kennedy, May 2024](https://towardsdatascience.com/interpretable-knn-iknn-33d38402b8fc)
+
+related github repo: https://github.com/Brett-Kennedy/ikNN 
