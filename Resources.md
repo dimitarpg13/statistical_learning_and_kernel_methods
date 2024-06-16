@@ -20,3 +20,7 @@
 ### Generalized Additive Models
 
 [Generalized Additive Models, T. Hastie, R. Tibshirani, 1986](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/additive_models/Generalized_Additive_Models_Hastie_1986.pdf)
+
+[Additive Decision Trees, W. Brett Kennedy, May 2024, Towards Data Science](https://towardsdatascience.com/additive-decision-trees-85f2feda2223)
+
+related githib repo: https://github.com/Brett-Kennedy/AdditiveDecisionTree
