@@ -23,6 +23,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 ### Kolmogorov-Arnold Networks
 [KAN: Kolmogorov-Arnold Networks, Z. Liu et al, MIT, Caltech, NEU, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/KAN-Kolmogorov%E2%80%93Arnold_Networks_Liu_2024.pdf)
 
+[Kolmogorov-Arnold Representation Theorem, Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold_representation_theorem)
+
 [Kolmogorov-Arnold Networks for Time-Series Analysis, Chrisitian J. Vaca-Rubio et al, CTTC, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Kolmogorov-Arnold_Networks_for_Time_Series_Analysis_Vaca-Rubio_2024.pdf)
 
 [Wav-KAN: Wavelet Kolmogorov-Arnold Networks, Z. Bozorgasi et al, IEEE, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Wav-KAN-Wavelet_Kolmogorov-Arnold_Networks_Bozorgasi_2024.pdf)
