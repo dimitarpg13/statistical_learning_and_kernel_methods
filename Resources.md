@@ -41,9 +41,13 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Hilbert 13: Are There Any Genuine Continuous Multivariate Real Valued Functions? Sidney A. Morris, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Hilbert_13-Are_There_Any_Genuine_Continuous_Multivariate_Real-Valued_Functions_Morris_2020%3F.pdf)
 
+[On The Kolmogorov Neural Networks, A. Ismailova et al, 2023](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/On_the_Kolmogorov_neural_networks_Ismaiylova_2023.pdf)
+
 [Kolmogorov-Arnold Networks for Time-Series Analysis, Chrisitian J. Vaca-Rubio et al, CTTC, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Kolmogorov-Arnold_Networks_for_Time_Series_Analysis_Vaca-Rubio_2024.pdf)
 
 [Wav-KAN: Wavelet Kolmogorov-Arnold Networks, Z. Bozorgasi et al, IEEE, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Wav-KAN-Wavelet_Kolmogorov-Arnold_Networks_Bozorgasi_2024.pdf)
+
+[Kolmogorov Arnold Graph Neural Networks Gianluca De Carlo et al, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Kolmogorov_Arnold_Graph_Neural_Networks_De_Carlo_2024.pdf)
 
 [KAN: Why and How Does It Work? A Deep Dive, Saptashwa Bhattacharyya, Medium, 2024](https://towardsdatascience.com/kan-why-and-how-does-it-work-a-deep-dive-1adab4837fa3)
 
