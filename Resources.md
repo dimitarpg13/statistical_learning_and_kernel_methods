@@ -8,7 +8,7 @@
 
 [An Introduction to Statistical Learning with Applications in R, Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Second Edition, 2021](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/ISLRv2_website.pdf)
 
-repos with solutions for the book "An Introduction to Statistical Learning with Applications in R": [here](https://github.com/danhalligan/ISLRv2-solutions) and [here](https://github.com/asadoughi/stat-learning/)
+repos with solutions for the book _"An Introduction to Statistical Learning with Applications in R"_: [here](https://github.com/danhalligan/ISLRv2-solutions) and [here](https://github.com/asadoughi/stat-learning/)
 
 [Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, Bernhard Schoelkopf, Alexander J. Smola, MIT, 2002](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/scholkopf2002learning_with_kernels.pdf)
 
