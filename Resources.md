@@ -4,7 +4,11 @@
 
 [The Elements of Statistical Learning; Data Mining, Inference, Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman, Second Edition, 2017](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/EelementsOfStatisticalLearning_print12.pdf)
 
+[A Solution Manual and Notes for: The Elements of Statistical Learning by Jerome Friedman, Trevor Hastie, and Robert Tibshirani, John L. Weatherwax, David Epstein, 2021](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Weatherwax_Epstein_Hastie_Solution_Manual.pdf)
+
 [An Introduction to Statistical Learning with Applications in R, Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Second Edition, 2021](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/ISLRv2_website.pdf)
+
+repos with solutions for the book _"An Introduction to Statistical Learning with Applications in R"_: [here](https://github.com/danhalligan/ISLRv2-solutions) and [here](https://github.com/asadoughi/stat-learning/)
 
 [Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, Bernhard Schoelkopf, Alexander J. Smola, MIT, 2002](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/scholkopf2002learning_with_kernels.pdf)
 
@@ -19,6 +23,8 @@
 ### Kolmogorov-Arnold Networks
 [KAN: Kolmogorov-Arnold Networks, Z. Liu et al, MIT, Caltech, NEU, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/KAN-Kolmogorov%E2%80%93Arnold_Networks_Liu_2024.pdf)
 
+[Kolmogorov-Arnold Representation Theorem, Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold_representation_theorem)
+
 [Kolmogorov-Arnold Networks for Time-Series Analysis, Chrisitian J. Vaca-Rubio et al, CTTC, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Kolmogorov-Arnold_Networks_for_Time_Series_Analysis_Vaca-Rubio_2024.pdf)
 
 [Wav-KAN: Wavelet Kolmogorov-Arnold Networks, Z. Bozorgasi et al, IEEE, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Wav-KAN-Wavelet_Kolmogorov-Arnold_Networks_Bozorgasi_2024.pdf)
@@ -28,6 +34,8 @@
 [Kolmogorov–Arnold Networks Are About To Change The AI World Forever, Manushi Mukhi, 2024](https://medium.com/accredian/kolmogorov-arnold-networks-kan-are-about-to-change-the-ai-world-forever-687f6d0b4d93)
 
 [Implementing a Kolmogorov-Arnold Network with PyTorch, Robert McMenemy, Medium, 2024](https://rabmcmenemy.medium.com/implementing-a-kolmogorov-arnold-network-with-pytorch-5409ce803fab)
+
+[Kolmogorov-Arnold Networks (KANs) Are Being Used To Boost Graph Deep Learning Like Never Before, Dr. Ashish Bamania, Medium, 2024](https://levelup.gitconnected.com/kolmogorov-arnold-networks-kans-are-being-used-to-boost-graph-deep-learning-like-never-before-2d39fec7dfc3)
 
 ### Generalized Additive Models
 
