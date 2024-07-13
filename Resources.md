@@ -4,6 +4,8 @@
 
 [The Elements of Statistical Learning; Data Mining, Inference, Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman, Second Edition, 2017](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/EelementsOfStatisticalLearning_print12.pdf)
 
+[A Solution Manual and Notes for: The Elements of Statistical Learning by Jerome Friedman, Trevor Hastie, and Robert Tibshirani, John L. Weatherwax, David Epstein, 2021](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Weatherwax_Epstein_Hastie_Solution_Manual.pdf)
+
 [An Introduction to Statistical Learning with Applications in R, Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Second Edition, 2021](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/ISLRv2_website.pdf)
 
 [Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, Bernhard Schoelkopf, Alexander J. Smola, MIT, 2002](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/scholkopf2002learning_with_kernels.pdf)
