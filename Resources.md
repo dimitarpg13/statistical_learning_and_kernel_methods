@@ -31,6 +31,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [On The Structure of Continuous Functions of Several Variables, David A. Spercher, 1965](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/On_the_structure_of_continuous_functions_of_several_variables_Spercher_1965.pdf)
 
+[On The Approximate Realization of Continuous Functions by Neural Networks, Ken-ichi Funahashi, 1989](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/On_the_Approximate_Realization_of_Continuous_Mappings_by_Neural_Networks_Funahashi_1989.pdf)
+
 [Rates of Convergence of Estimates, Kolmogorov's Entropy, and the Dimensionality Reduction Principle in Regression, T. Nicoleris et al, Universite de Montreal, 1998](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Rates_of_Convergence_of_Estimates_Kolmogorov_Entropy_and_the_Dimensionality_Reduction_Principle_in_Regression_Nicoleris_1997.pdf)
 
 [On a constructive proof of Kolmogorov's supperposition theorem, Juergen Braun, Michael Griebel, 2009](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/On_a_constructive_proof_of_Kolmogorov_superposition_theorem_Braun_2009.pdf)
