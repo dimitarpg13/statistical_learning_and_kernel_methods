@@ -25,6 +25,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Kolmogorov-Arnold Representation Theorem, Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold_representation_theorem)
 
+[On a constructive proof of Kolmogorov's supperposition theorem, Juergen Braun, Michael Griebel, 2009](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/On_a_constructive_proof_of_Kolmogorov_superposition_theorem_Braun_2009.pdf)
+
 [Hilbert 13: Are There Any Genuine Continuous Multivariate Real Valued Functions? Sidney A. Morris, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Hilbert_13-Are_There_Any_Genuine_Continuous_Multivariate_Real-Valued_Functions_Morris_2020%3F.pdf)
 
 [Kolmogorov-Arnold Networks for Time-Series Analysis, Chrisitian J. Vaca-Rubio et al, CTTC, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Kolmogorov-Arnold_Networks_for_Time_Series_Analysis_Vaca-Rubio_2024.pdf)
