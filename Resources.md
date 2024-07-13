@@ -33,6 +33,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Implementing a Kolmogorov-Arnold Network with PyTorch, Robert McMenemy, Medium, 2024](https://rabmcmenemy.medium.com/implementing-a-kolmogorov-arnold-network-with-pytorch-5409ce803fab)
 
+[Kolmogorov-Arnold Networks (KANs) Are Being Used To Boost Graph Deep Learning Like Never Before, Dr. Ashish Bamania, Medium, 2024](https://levelup.gitconnected.com/kolmogorov-arnold-networks-kans-are-being-used-to-boost-graph-deep-learning-like-never-before-2d39fec7dfc3)
+
 ### Generalized Additive Models
 
 [Generalized Additive Models, T. Hastie, R. Tibshirani, 1986](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/additive_models/Generalized_Additive_Models_Hastie_1986.pdf)
