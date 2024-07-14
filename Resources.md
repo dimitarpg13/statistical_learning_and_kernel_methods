@@ -70,3 +70,7 @@ related githib repo: https://github.com/Brett-Kennedy/AdditiveDecisionTree
 [Interpretable kNN (ikNN), W Brett Kennedy, May 2024](https://towardsdatascience.com/interpretable-knn-iknn-33d38402b8fc)
 
 related github repo: https://github.com/Brett-Kennedy/ikNN 
+
+## conferences
+
+[Machine Learning, Optimization, and Data Science, 5th International Conference, LOD 2019 Siena, Italy, September 10–13, 2019 Proceedings](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Machine_Learning_Optimization_and_Data_Science_5_conference_LOD_2019.pdf)
