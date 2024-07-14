@@ -67,7 +67,7 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 related githib repo: https://github.com/Brett-Kennedy/AdditiveDecisionTree
 
-[Generalized Additive Latent Variable Models, Sylvain Sardy et al, U. of Geneva, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/additive_models/Generalized_monotone_additive_latent_variable_models_Sardy_2010.pdf)
+[Generalized Monotone Additive Latent Variable Models, Sylvain Sardy et al, U. of Geneva, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/additive_models/Generalized_monotone_additive_latent_variable_models_Sardy_2010.pdf)
 
 ### kNN
 
