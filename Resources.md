@@ -61,11 +61,13 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Generalized Additive Models, T. Hastie, R. Tibshirani, 1986](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/additive_models/Generalized_Additive_Models_Hastie_1986.pdf)
 
+[Estimation of Generalized Additive Models, Prabir Burman, 1990](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/additive_models/Estimation_of_generalized_additive_models_Burman_1990.pdf)
+
 [Additive Decision Trees, W. Brett Kennedy, May 2024, Towards Data Science](https://towardsdatascience.com/additive-decision-trees-85f2feda2223)
 
 related githib repo: https://github.com/Brett-Kennedy/AdditiveDecisionTree
 
-[Generalized Additive Latent Variable Models, Sylvain Sardy et al, U. of Geneva, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/additive_models/Generalized_monotone_additive_latent_variable_models_Sardy_2010.pdf)
+[Generalized Monotone Additive Latent Variable Models, Sylvain Sardy et al, U. of Geneva, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/additive_models/Generalized_monotone_additive_latent_variable_models_Sardy_2010.pdf)
 
 ### kNN
 
