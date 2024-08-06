@@ -1,0 +1,13 @@
+literature/articles/additive_models/Generalized_Additive_Models_Hastie_1986.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Statistical_Inference_Casella-Berger_2002.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/ISLRv2_website.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/EelementsOfStatisticalLearning_print12.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/scholkopf2002learning_with_kernels.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/principlesofstatisticalinference_cox_2006.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Learning_Theory_from_First_Principles_Bach_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Weatherwax_Epstein_Hastie_Solution_Manual.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/KAN/Hilbert_13-Are_There_Any_Genuine_Continuous_Multivariate_Real-Valued_Functions_Morris_2020?.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/KAN/Kolmogorov_Superposition_Theorem_and_Its_Applications_Liu_ImperialCollege_PhD_thesis_2015.pd filter=lfs diff=lfs merge=lfs -text
+literature/articles/KAN/Kolmogorov_Superposition_Theorem_and_Its_Applications_Liu_ImperialCollege_PhD_thesis_2015.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/KAN/On_the_structure_of_continuous_functions_of_several_variables_Spercher_1965.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Machine_Learning_Optimization_and_Data_Science_5_conference_LOD_2019.pdf filter=lfs diff=lfs merge=lfs -text
