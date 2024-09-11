@@ -23,6 +23,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 ### Kolmogorov-Arnold Networks
 [KAN: Kolmogorov-Arnold Networks, Z. Liu et al, MIT, Caltech, NEU, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/KAN-Kolmogorov%E2%80%93Arnold_Networks_Liu_2024.pdf)
 
+[KAN 2.0: Kolmogorov-Arnold Networks Meet Science, Z. Liu et al, MIT, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/KAN_2.0-Kolmogorov-Arnold_Networks_Meet_Science_Liu_2024.pdf)
+
 [Kolmogorov-Arnold Representation Theorem, Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold_representation_theorem)
 
 [Representing continuous functions of several variables as a superposition of single variable continuous functions and addition, A.N. Kolmogorov, Dokl. Akad. Nauk SSSR, 1957](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Representing_continuous_functions_of_several_variables_as_a_superposition_of_single_variate_continuous_functions_and_addition_Kolmogorov_1957.pdf)
