@@ -18,6 +18,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Learning Theory from First Principles, Francis Bach, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Learning_Theory_from_First_Principles_Bach_2024.pdf)
 
+[An Introduction to Statistical Modeling, Howard M. Taylor, 3rd Edition, 1998](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/An_Introduction_to_Stochastic_Modeling_Taylor_3Ed_1998.pdf)
+
 ## articles
 
 ### Kolmogorov-Arnold Networks
