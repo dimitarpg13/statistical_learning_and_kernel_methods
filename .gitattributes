@@ -12,3 +12,4 @@ literature/articles/KAN/Kolmogorov_Superposition_Theorem_and_Its_Applications_Li
 literature/articles/KAN/On_the_structure_of_continuous_functions_of_several_variables_Spercher_1965.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Machine_Learning_Optimization_and_Data_Science_5_conference_LOD_2019.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/KAN/KAN_2.0-Kolmogorov-Arnold_Networks_Meet_Science_Liu_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/An_Introduction_to_Stochastic_Modeling_Taylor_3Ed_1998.pdf filter=lfs diff=lfs merge=lfs -text
