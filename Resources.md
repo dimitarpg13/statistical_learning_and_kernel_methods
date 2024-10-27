@@ -79,6 +79,10 @@ related githib repo: https://github.com/Brett-Kennedy/AdditiveDecisionTree
 
 related github repo: https://github.com/Brett-Kennedy/ikNN 
 
+### Non-linear models
+
+[Non-Linearity: Can Linear Regression Compete With Gradient Boosting? Samuele Mazzanti, 2024](https://towardsdatascience.com/non-linearity-can-linear-regression-compete-with-gradient-boosting-e4f88d81d105)
+
 ## conferences
 
 [Machine Learning, Optimization, and Data Science, 5th International Conference, LOD 2019 Siena, Italy, September 10–13, 2019 Proceedings](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Machine_Learning_Optimization_and_Data_Science_5_conference_LOD_2019.pdf)
