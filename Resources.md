@@ -20,6 +20,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [An Introduction to Statistical Modeling, Howard M. Taylor, 3rd Edition, 1998](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/An_Introduction_to_Stochastic_Modeling_Taylor_3Ed_1998.pdf)
 
+[A First Course in Monte Carlo Methods, D. Sanz-Alonso and O. Al-Ghattas, U of Chicago, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/MonteCarlo/A_First_Course_in_Monte_Carlo_Methods_Sanz_Alonso_2024.pdf)
+
 ## articles
 
 ### Kolmogorov-Arnold Networks
