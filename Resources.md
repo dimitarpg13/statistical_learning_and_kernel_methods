@@ -88,3 +88,69 @@ related github repo: https://github.com/Brett-Kennedy/ikNN
 ## conferences
 
 [Machine Learning, Optimization, and Data Science, 5th International Conference, LOD 2019 Siena, Italy, September 10–13, 2019 Proceedings](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Machine_Learning_Optimization_and_Data_Science_5_conference_LOD_2019.pdf)
+
+## Videos
+
+### Pascal Poupart CS480/680 Statisitical Learning 2019
+
+[Lecture 1: Intro to ML/Statistical Learning](https://youtu.be/GouhgbE5gPk?si=SrsVl2XbILvgOUbn)
+
+[Lecture 2: K-nearest neighbors](https://youtu.be/5AXF14_OCNE?si=YQwXYNxenVHeCHIN)
+
+[Lecture 3: Linear Regression](https://youtu.be/z9SUst3X5iU?si=PNis1zap53dMlQWu)
+
+[Lecture 4: Statistical Learning](https://youtu.be/hSZGE_CJnGg?si=vfJzFIf1rjg7fDxD)
+
+[Lecture 5: Statistical Linear Regression](https://youtu.be/bvh_HObXZmQ?si=6PRIXhqdj6THFZ5s)
+
+[Lecture 6: Tools for Survey](https://youtu.be/5rk4wWKvd6c?si=hd2Eaaz4oTKZbSLJ)
+
+[Lecture 6: Kaggle datasets and competitions](https://youtu.be/WoLTLru_UBI?si=-XxcSrH4K24z7c7Z)
+
+[lecture 6: Normalizing flows](https://youtu.be/3nmBnudFAR8?si=WK3dnK_HWQ-lw-jN)
+
+[Lecture 6: Unsupervised word translation](https://youtu.be/8XZolToe1jM?si=4r86auz4v5GZvuWX)
+
+[Lecture 6: Fact checking and Reinforcement Learning](https://youtu.be/bmczQuXw7ak?si=tC0Pa7p7gq6u810f)
+
+[Lecture 6: Sum-product Networks](https://youtu.be/IaLGMJzCdIw?si=VIRICxcWsFYwwc6n)
+
+[Lecture 6: EM and Mixture Models](https://youtu.be/jeo7Cpsyttc?si=s6Me7b28_KW9LgZA)
+
+[Lecture 6: Model Compression for NLP](https://youtu.be/tRNgLb0S2mo?si=4hfq0s2wQXcxVYNb)
+
+[Lecture 7: Mixture of Gaussians](https://youtu.be/Weq0KiSTHAs?si=5oussc7yiF1TLm8-)
+
+[Lecture 8: Logistic Regression and Generalized Linear Models](https://youtu.be/CXV-vVoPFHw?si=jlb17xTE28b6UNAt)
+
+[Lecture 9: Perceptrons and single layer networks](https://youtu.be/dXxuCARJ1CY?si=OhM42cZuJN8VMtaF)
+
+[Lecture 10: Multi-layer neural networks and backpropagation](https://youtu.be/-SCDyTz0mWI?si=N4XK6JxpSSp1fFRk)
+
+[Lecture 11: Kernel methods](https://youtu.be/nzSBvINmg28?si=5buft116QODQn-O7)
+
+[Lecture 12: Gaussian Processes](https://youtu.be/exqpaqaPG2M?si=eLB9k2XAg8oLIjAv)
+
+[Lecture 13: Support Vector Machines](https://youtu.be/pM14uopquiA?si=nbccMKaMX8nMdGcK)
+
+[Lecture 14: Support Vector Machines (continued)](https://youtu.be/-9aO4sM_zHg?si=GSsAidj2q52-iBXo)
+
+[Lecture 15: Deep Learning Networks](https://youtu.be/j-O9Fu45zdU?si=WOLbkseYLY4QEMtD)
+
+[Lecture 16: Convolutional Neural Networks](https://youtu.be/F08TkdjdrL8?si=evwoROZCFmWMOGxu)
+
+[Lecture 17: Hidden Markov Models](https://youtu.be/9EHWTHJkqUY?si=jqMLBrJKBs_kHK75)
+
+[Lecture 18: Recurrent and Recursive Networks](https://youtu.be/lClNhXVNZ-0?si=7vxiDtbq5dgrUiwu)
+
+[Lecture 19: Attention and Transformer Networks](https://youtu.be/OyFJWRnt_AY?si=lVMMTojOkT1G2JEN)
+
+[Lecture 20: Autoencoders](https://www.youtube.com/watch?v=E28CVTbNoSA)
+
+[Lecture 21: Generative networks (variational autoencoders and GANs)](https://youtu.be/DWVlEw0D3gA?si=wSb0Edy9LvrCKCS0)
+
+[Lecture 22: Ensemble Learning (Bagging and Boosting)](https://youtu.be/gTUigPt8fVo?si=V97gcOfWRr7_-NqH)
+
+[Lecture 23: Normalizing Flows](https://youtu.be/3KUvxIOJD0k?si=WIENaPzAroiNEVUv)
+
+[Lecture 24: Gradient boosting, bagging, decision forests](https://youtu.be/B3sN1BymGdc?si=AusLuuM9aT3EL5lf)
