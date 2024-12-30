@@ -24,6 +24,10 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 ## articles
 
+### Statistical inference
+
+[Likelihood Inference, Nancy Reid, U of Toronto, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/statistical_inference/Likelihood_inference_Reid_UToronto_2010.pdf)
+
 ### Kolmogorov-Arnold Networks
 [KAN: Kolmogorov-Arnold Networks, Z. Liu et al, MIT, Caltech, NEU, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/KAN-Kolmogorov%E2%80%93Arnold_Networks_Liu_2024.pdf)
 
