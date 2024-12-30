@@ -24,6 +24,10 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 ## articles
 
+### Decision Trees
+
+[The Mathematical Equivalence between Decision Trees and Artificial Neural Networks, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/decision_trees/Mathemaical_Equivalence_between_DecisionTrees_and_ANN_Allonco_2024.pdf)
+
 ### Statistical inference
 
 [Likelihood Inference, Nancy Reid, U of Toronto, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/statistical_inference/Likelihood_inference_Reid_UToronto_2010.pdf)
