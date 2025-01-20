@@ -29,3 +29,4 @@ literature/articles/kernel_methods/NIPS-2000-the-kernel-trick-for-distances-Scho
 literature/articles/kernel_methods/On_the_Optimality_of_Kernels_for_High-Dimensional_Clustering_Vankadara_2019.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/kernel_methods/Kernel_Methods_on_Riemannian_Manifolds_with_Gaussian_RBF_Kernels_Jayasumana_2015.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/svm/An_innovative_support_vector_machine_based_method_for_Contextual_image_classification_Negri_2013.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/kernel_methods/Kernel_methods_for_high_dimensional_data_analysis_de_Vitis_2020.pdf filter=lfs diff=lfs merge=lfs -text
