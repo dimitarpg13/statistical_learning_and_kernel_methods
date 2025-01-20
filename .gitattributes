@@ -26,3 +26,4 @@ literature/books/GeneralizedLinearModels_McCullagh_Nelder_1983.pdf filter=lfs di
 literature/books/kernel-methods-for-pattern-analysis.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Learning_kernel_classifiers_Herbrich_2002.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/kernel_methods/NIPS-2000-the-kernel-trick-for-distances-Schoelkopf.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/kernel_methods/On_the_Optimality_of_Kernels_for_High-Dimensional_Clustering_Vankadara_2019.pdf filter=lfs diff=lfs merge=lfs -text
