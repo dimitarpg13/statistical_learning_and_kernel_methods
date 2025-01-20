@@ -12,6 +12,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, Bernhard Schoelkopf, Alexander J. Smola, MIT, 2002](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/scholkopf2002learning_with_kernels.pdf)
 
+[Kernel Methods for Pattern Analysis, John Shawe-Taylor, Nello Cristiannini, 2004](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/kernel-methods-for-pattern-analysis.pdf)
+
 [Statistical Inference, George Casella, Roger L. Berger, 2002, 2nd edition](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Statistical_Inference_Casella-Berger_2002.pdf)
 
 [Principles of Statistical Inference, D.R. Cox, Cambridge U., 2006](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/principlesofstatisticalinference_cox_2006.pdf)
