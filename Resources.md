@@ -36,13 +36,23 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Likelihood Inference, Nancy Reid, U of Toronto, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/statistical_inference/Likelihood_inference_Reid_UToronto_2010.pdf)
 
-### Kernel Methods
+### Kernel Methods, Support Vector Machines
 
 [Kernel Methods in Machine Learning, Thomas Hoffman, Bernhard Schoelkopf, Alexander J. Smolla, 2008](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Kernel_methods_in_Machine_Learning_Hoffman_Scholkopf_Smolla_2008.pdf)
+
+[Gentle Introduction to the Kernel Distance, JR Phillips et al, 2011](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/A_Gentle_Introduction_to_the_Kernel_Distance_Phillips_2011.pdf)
 
 [A Tutorial on Support Vector Machines for Pattern Recongition, Christopher Burgess, 1998](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/svm/svmtutorial_Burgess_1998.pdf)
 
 [The Kernel Trick for Distances, B. Schoelkopf, Microsoft Research, NIPS 2000](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/NIPS-2000-the-kernel-trick-for-distances-Schoelkopf.pdf)
+
+[On The Optimality of Kernels for High-Dimensional Clustering, LC Vankadara et al, 2019](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/On_the_Optimality_of_Kernels_for_High-Dimensional_Clustering_Vankadara_2019.pdf)
+
+[Kernel Methods on Riemannian Manifolds with Gaussian RBF Kernels, S. Jayasumana et al, 2015](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Kernel_Methods_on_Riemannian_Manifolds_with_Gaussian_RBF_Kernels_Jayasumana_2015.pdf)
+
+[An Innovative Support Vector Machine Based Method for Contextual Image Classification, RG Negri et al, 2013](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/svm/An_innovative_support_vector_machine_based_method_for_Contextual_image_classification_Negri_2013.pdf)
+
+[Kernel methods for high dimensional data analysis, Alba Chiara de Vitis, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Kernel_methods_for_high_dimensional_data_analysis_de_Vitis_2020.pdf)
 
 ### Kolmogorov-Arnold Networks
 [KAN: Kolmogorov-Arnold Networks, Z. Liu et al, MIT, Caltech, NEU, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/KAN-Kolmogorov%E2%80%93Arnold_Networks_Liu_2024.pdf)
