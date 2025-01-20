@@ -14,6 +14,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Kernel Methods for Pattern Analysis, John Shawe-Taylor, Nello Cristiannini, 2004](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/kernel-methods-for-pattern-analysis.pdf)
 
+[Learning Kernel Classifiers: Theory and Applications, Ralf Herbrich, MIT, 2002](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Learning_kernel_classifiers_Herbrich_2002.pdf)
+
 [Statistical Inference, George Casella, Roger L. Berger, 2002, 2nd edition](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Statistical_Inference_Casella-Berger_2002.pdf)
 
 [Principles of Statistical Inference, D.R. Cox, Cambridge U., 2006](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/principlesofstatisticalinference_cox_2006.pdf)
@@ -33,6 +35,12 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 ### Statistical inference
 
 [Likelihood Inference, Nancy Reid, U of Toronto, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/statistical_inference/Likelihood_inference_Reid_UToronto_2010.pdf)
+
+### Kernel Methods
+
+[Kernel Methods in Machine Learning, Thomas Hoffman, Bernhard Schoelkopf, Alexander J. Smolla, 2008](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Kernel_methods_in_Machine_Learning_Hoffman_Scholkopf_Smolla_2008.pdf)
+
+[A Tutorial on Support Vector Machines for Pattern Recongition, Christopher Burgess, 1998](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/svm/svmtutorial_Burgess_1998.pdf)
 
 ### Kolmogorov-Arnold Networks
 [KAN: Kolmogorov-Arnold Networks, Z. Liu et al, MIT, Caltech, NEU, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/KAN-Kolmogorov%E2%80%93Arnold_Networks_Liu_2024.pdf)
