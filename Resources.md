@@ -42,6 +42,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [A Tutorial on Support Vector Machines for Pattern Recongition, Christopher Burgess, 1998](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/svm/svmtutorial_Burgess_1998.pdf)
 
+[The Kernel Trick for Distances, B. Schoelkopf, Microsoft Research, NIPS 2000](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/NIPS-2000-the-kernel-trick-for-distances-Schoelkopf.pdf)
+
 ### Kolmogorov-Arnold Networks
 [KAN: Kolmogorov-Arnold Networks, Z. Liu et al, MIT, Caltech, NEU, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/KAN-Kolmogorov%E2%80%93Arnold_Networks_Liu_2024.pdf)
 
