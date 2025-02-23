@@ -113,6 +113,10 @@ related githib repo: https://github.com/Brett-Kennedy/AdditiveDecisionTree
 
 related github repo: https://github.com/Brett-Kennedy/ikNN 
 
+### The Lanczos Algorithm
+
+[The Lanczos algorithm for matrix functions: a handbook for scientists, Tyler Chen, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Lanczos_algorithm/The_Lanczos_algorithm_for_matrix_functions_Chen_2024.pdf)
+
 ### Non-linear models
 
 [Non-Linearity: Can Linear Regression Compete With Gradient Boosting? Samuele Mazzanti, 2024](https://towardsdatascience.com/non-linearity-can-linear-regression-compete-with-gradient-boosting-e4f88d81d105)
