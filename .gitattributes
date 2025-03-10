@@ -33,3 +33,4 @@ literature/articles/kernel_methods/Kernel_methods_for_high_dimensional_data_anal
 literature/articles/hyperbolic_spaces/A_Group-Theoretic_Framework_for_Machine_Learning_in_Hyperbolic_Spaces_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Introduction_to_Machine_Learning_Younes_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_2004.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Probabilistic_Artificial_Intelligence_Krause_Huebotter_2025.pdf filter=lfs diff=lfs merge=lfs -text
