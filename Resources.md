@@ -60,6 +60,10 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Kernel methods for high dimensional data analysis, Alba Chiara de Vitis, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Kernel_methods_for_high_dimensional_data_analysis_de_Vitis_2020.pdf)
 
+[Every Model Learned by Gradient Descent Is Approximately a Kernel Machine, Pedro Domingos, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Every_Model_Learned_by_Gradient_Descent_Is_Approximately_a_Kernel_Machine_Domingos_2020.pdf)
+
+[Transformers as Support Vector Machines, Davoud Ataee Tarzanagh et al, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/svm/Transformers_as_Support_Vector_Machines_Tarzanagh_225.pdf)
+
 ### Kolmogorov-Arnold Networks
 [KAN: Kolmogorov-Arnold Networks, Z. Liu et al, MIT, Caltech, NEU, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/KAN-Kolmogorov%E2%80%93Arnold_Networks_Liu_2024.pdf)
 
