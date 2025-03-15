@@ -32,6 +32,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Probabilistic Artificial Intelligence, Andreas Krause, Jonas Hübotter, 2025](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Probabilistic_Artificial_Intelligence_Krause_Huebotter_2025.pdf)
 
+[Foundations of Machine Learning, Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar, 2012](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Foundations_of_Machine_Learning_Mohri_2012.pdf)
+
 ## articles
 
 ### Decision Trees
