@@ -68,6 +68,22 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Transformers as Support Vector Machines, Davoud Ataee Tarzanagh et al, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/svm/Transformers_as_Support_Vector_Machines_Tarzanagh_225.pdf)
 
+### Learning as an Approximation, The Double Descent Phenomenon
+
+[A Brief Prehistory of Double Descent, Marco Loog et al, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/A_Brief_Prehistory_of_Double_Descent_Loog_2020.pdf)
+
+[Theory of the Double Descent Phenomena in High-Dimensional Linear Regression, Charles H. Mafrtin, 2025](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/Theory_of_the_Double_Descent_Phenomena_in_High-Dimensional_Linear_Regression_Martin_2025.pdf)
+
+[Reconciling modern machine learning practice and the bias-variance trade-off, Mikhail Belkin et al, 2019](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/Reconciling_modern_machine_learning_practice_and_the_bias-variance_trade-off_Belkin_2019.pdf)
+
+[Statistical Mechanics of Learning, Andreas Engel, 1999](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/Statistical_Mechanics_of_Learning_Engel_1999.pdf)
+
+[The Statistical Mechanics of Learning A Rule, T. Watkin et al, 1993](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/The_Statistical_Mechanics_of_Learning_A_Rule_1993RevModPhysWatkin.pdf)
+
+[A Theory of Networks for Approximation and Learning, T. Poggio et al, 1989](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/A_Theory_of_Networks_for_Approximation_and_Learning_Poggio_Girosi_1989.pdf)
+
+[The Peaking Phenomenon in Semi-Supervised Learning, JH Krijte, M. Loog, 2016](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/The_Peaking_Phenomenon_in_Semi-supervised_Learning_Krijthe_2016.pdf)
+
 ### Kolmogorov-Arnold Networks
 [KAN: Kolmogorov-Arnold Networks, Z. Liu et al, MIT, Caltech, NEU, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/KAN-Kolmogorov%E2%80%93Arnold_Networks_Liu_2024.pdf)
 
