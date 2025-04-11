@@ -68,6 +68,12 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Transformers as Support Vector Machines, Davoud Ataee Tarzanagh et al, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/svm/Transformers_as_Support_Vector_Machines_Tarzanagh_225.pdf)
 
+### Kolmogorov Superposition Theorem
+
+[The Kolmogorov Superposition Theorem, Torbjörn Hedberg, 1971](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Kolmogorov_superposition_theorem/Kolmogorov_superposition_theorem_proof_Hedberg_1971.pdf)
+
+[On a constructive proof of Kolmogorov’s superposition theorem, Juergen Braun et al, 2009](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Kolmogorov_superposition_theorem/On_a_constructive_proof_of_Kolmogorov_superposition_theorem_Braun_2009.pdf)
+
 ### Learning as an Approximation, The Double Descent Phenomenon
 
 [A Brief Prehistory of Double Descent, Marco Loog et al, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/A_Brief_Prehistory_of_Double_Descent_Loog_2020.pdf)
