@@ -74,6 +74,12 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [On a constructive proof of Kolmogorov’s superposition theorem, Juergen Braun et al, 2009](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Kolmogorov_superposition_theorem/On_a_constructive_proof_of_Kolmogorov_superposition_theorem_Braun_2009.pdf)
 
+[On the Structure of Continuous Functions of Several Variables, D. Sprecher, 1965](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Kolmogorov_superposition_theorem/On_the_Structure_of_Continuous_Functions_of_Several_Variables_Sprecher_1965.pdf)
+
+[Dimension of metric spaces and Hilbert's problem 13, PA Ostrand, 1965](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Kolmogorov_superposition_theorem/Dimension_of_metric_spaces_and_Hilberts_problem_13_Ostrand_1965.pdf)
+
+[On the representation by linear superpositions, V. Ismailov, 2008](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Kolmogorov_superposition_theorem/On_the_representation_by_linear_superpositions_Vugar_2008.pdf)
+
 ### Learning as an Approximation, The Double Descent Phenomenon
 
 [A Brief Prehistory of Double Descent, Marco Loog et al, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/A_Brief_Prehistory_of_Double_Descent_Loog_2020.pdf)
