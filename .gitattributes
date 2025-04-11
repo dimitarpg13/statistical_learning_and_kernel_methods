@@ -40,3 +40,4 @@ literature/articles/Boosting_any_learning_algorithm_with_Statistically_Enhanced_
 literature/articles/gradient_descent/proximal-gradient-descent_Ryan_Tibshirani_slides.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/gradient_descent/grad-descent_Ryan_Tibshirani_slides.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/learning_as_approximation/A_Theory_of_Networks_for_Approximation_and_Learning_Poggio_Girosi_1989.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/learning_as_approximation/Reconciling_modern_machine_learning_practice_and_the_bias-variance_trade-off_Belkin_2019.pdf filter=lfs diff=lfs merge=lfs -text
