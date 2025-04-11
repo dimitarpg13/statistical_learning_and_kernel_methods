@@ -42,3 +42,4 @@ literature/articles/gradient_descent/grad-descent_Ryan_Tibshirani_slides.pdf fil
 literature/articles/learning_as_approximation/A_Theory_of_Networks_for_Approximation_and_Learning_Poggio_Girosi_1989.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/learning_as_approximation/Reconciling_modern_machine_learning_practice_and_the_bias-variance_trade-off_Belkin_2019.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/learning_as_approximation/Statistical_Mechanics_of_Learning_Engel_1999.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/learning_as_approximation/The_Statistical_Mechanics_of_Learning_A_Rule_1993RevModPhysWatkin.pdf filter=lfs diff=lfs merge=lfs -text
