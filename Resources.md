@@ -34,6 +34,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Foundations of Machine Learning, Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar, 2012](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Foundations_of_Machine_Learning_Mohri_2012.pdf)
 
+[Patterns, Predictions, and Actions, Moritz Hardt and Benjamin Recht, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Patterns_Predictions_and_Actions_Hardt_2024.pdf)
+
 ## articles
 
 ### Decision Trees
