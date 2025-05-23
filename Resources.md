@@ -24,7 +24,15 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [An Introduction to Statistical Modeling, Howard M. Taylor, 3rd Edition, 1998](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/An_Introduction_to_Stochastic_Modeling_Taylor_3Ed_1998.pdf)
 
+[Introduction to Machine Learning, Laurent Younes, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Introduction_to_Machine_Learning_Younes_2024.pdf)
+
 [A First Course in Monte Carlo Methods, D. Sanz-Alonso and O. Al-Ghattas, U of Chicago, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/MonteCarlo/A_First_Course_in_Monte_Carlo_Methods_Sanz_Alonso_2024.pdf)
+
+[The Cauchy–Schwartz Master Class An Introduction to the Art of Mathematical Inequalities, J. Michael Steele, University of Pennsylvania, 2004](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_2004.pdf)
+
+[Probabilistic Artificial Intelligence, Andreas Krause, Jonas Hübotter, 2025](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Probabilistic_Artificial_Intelligence_Krause_Huebotter_2025.pdf)
+
+[Foundations of Machine Learning, Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar, 2012](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Foundations_of_Machine_Learning_Mohri_2012.pdf)
 
 ## articles
 
@@ -32,7 +40,9 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [The Mathematical Equivalence between Decision Trees and Artificial Neural Networks, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/decision_trees/Mathemaical_Equivalence_between_DecisionTrees_and_ANN_Allonco_2024.pdf)
 
-### Statistical inference
+### Statistical Learning and Inference
+
+[Boosting any learning algorithm with Statistically Enhanced Learning, Florian Felice et al, 2025](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Boosting_any_learning_algorithm_with_Statistically_Enhanced_Learning_Felice_2025.pdf)
 
 [Likelihood Inference, Nancy Reid, U of Toronto, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/statistical_inference/Likelihood_inference_Reid_UToronto_2010.pdf)
 
@@ -53,6 +63,38 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 [An Innovative Support Vector Machine Based Method for Contextual Image Classification, RG Negri et al, 2013](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/svm/An_innovative_support_vector_machine_based_method_for_Contextual_image_classification_Negri_2013.pdf)
 
 [Kernel methods for high dimensional data analysis, Alba Chiara de Vitis, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Kernel_methods_for_high_dimensional_data_analysis_de_Vitis_2020.pdf)
+
+[Every Model Learned by Gradient Descent Is Approximately a Kernel Machine, Pedro Domingos, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Every_Model_Learned_by_Gradient_Descent_Is_Approximately_a_Kernel_Machine_Domingos_2020.pdf)
+
+[Transformers as Support Vector Machines, Davoud Ataee Tarzanagh et al, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/svm/Transformers_as_Support_Vector_Machines_Tarzanagh_225.pdf)
+
+### Kolmogorov Superposition Theorem
+
+[The Kolmogorov Superposition Theorem, Torbjörn Hedberg, 1971](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Kolmogorov_superposition_theorem/Kolmogorov_superposition_theorem_proof_Hedberg_1971.pdf)
+
+[On a constructive proof of Kolmogorov’s superposition theorem, Juergen Braun et al, 2009](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Kolmogorov_superposition_theorem/On_a_constructive_proof_of_Kolmogorov_superposition_theorem_Braun_2009.pdf)
+
+[On the Structure of Continuous Functions of Several Variables, D. Sprecher, 1965](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Kolmogorov_superposition_theorem/On_the_Structure_of_Continuous_Functions_of_Several_Variables_Sprecher_1965.pdf)
+
+[Dimension of metric spaces and Hilbert's problem 13, PA Ostrand, 1965](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Kolmogorov_superposition_theorem/Dimension_of_metric_spaces_and_Hilberts_problem_13_Ostrand_1965.pdf)
+
+[On the representation by linear superpositions, V. Ismailov, 2008](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Kolmogorov_superposition_theorem/On_the_representation_by_linear_superpositions_Vugar_2008.pdf)
+
+### Learning as an Approximation, The Double Descent Phenomenon
+
+[A Brief Prehistory of Double Descent, Marco Loog et al, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/A_Brief_Prehistory_of_Double_Descent_Loog_2020.pdf)
+
+[Theory of the Double Descent Phenomena in High-Dimensional Linear Regression, Charles H. Mafrtin, 2025](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/Theory_of_the_Double_Descent_Phenomena_in_High-Dimensional_Linear_Regression_Martin_2025.pdf)
+
+[Reconciling modern machine learning practice and the bias-variance trade-off, Mikhail Belkin et al, 2019](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/Reconciling_modern_machine_learning_practice_and_the_bias-variance_trade-off_Belkin_2019.pdf)
+
+[Statistical Mechanics of Learning, Andreas Engel, 1999](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/Statistical_Mechanics_of_Learning_Engel_1999.pdf)
+
+[The Statistical Mechanics of Learning A Rule, T. Watkin et al, 1993](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/The_Statistical_Mechanics_of_Learning_A_Rule_1993RevModPhysWatkin.pdf)
+
+[A Theory of Networks for Approximation and Learning, T. Poggio et al, 1989](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/A_Theory_of_Networks_for_Approximation_and_Learning_Poggio_Girosi_1989.pdf)
+
+[The Peaking Phenomenon in Semi-Supervised Learning, JH Krijte, M. Loog, 2016](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/learning_as_approximation/The_Peaking_Phenomenon_in_Semi-supervised_Learning_Krijthe_2016.pdf)
 
 ### Kolmogorov-Arnold Networks
 [KAN: Kolmogorov-Arnold Networks, Z. Liu et al, MIT, Caltech, NEU, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/KAN-Kolmogorov%E2%80%93Arnold_Networks_Liu_2024.pdf)
@@ -110,6 +152,10 @@ related githib repo: https://github.com/Brett-Kennedy/AdditiveDecisionTree
 [Interpretable kNN (ikNN), W Brett Kennedy, May 2024](https://towardsdatascience.com/interpretable-knn-iknn-33d38402b8fc)
 
 related github repo: https://github.com/Brett-Kennedy/ikNN 
+
+### The Lanczos Algorithm
+
+[The Lanczos algorithm for matrix functions: a handbook for scientists, Tyler Chen, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Lanczos_algorithm/The_Lanczos_algorithm_for_matrix_functions_Chen_2024.pdf)
 
 ### Non-linear models
 
