@@ -135,6 +135,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Kolmogorov-Arnold Networks (KANs) Are Being Used To Boost Graph Deep Learning Like Never Before, Dr. Ashish Bamania, Medium, 2024](https://levelup.gitconnected.com/kolmogorov-arnold-networks-kans-are-being-used-to-boost-graph-deep-learning-like-never-before-2d39fec7dfc3)
 
+[Prediction via Shapley Value Regression, Amr Alkhatib et al, 2025](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Prediction_via_Shapley_Value_Regression_Alkhatib_2025.pdf)
+
 ### Generalized Additive Models
 
 [Generalized Additive Models, T. Hastie, R. Tibshirani, 1986](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/additive_models/Generalized_Additive_Models_Hastie_1986.pdf)
