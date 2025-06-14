@@ -48,6 +48,18 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Likelihood Inference, Nancy Reid, U of Toronto, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/statistical_inference/Likelihood_inference_Reid_UToronto_2010.pdf)
 
+
+### Inductive Bias in Learning Models
+
+[Hints, Yaser-Abu Mostafa, 1995](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/inductive_bias/Hints_Abu-Yaser_Moustafa_1995.pdf)
+
+[The Lack of Apriori Distinctions Between Learning Algorithms, David H. Wolpert, 1996](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/inductive_bias/the-lack-of-a-priori-distinctions-between-learning-Wolpert-1996.pdf)
+
+[The Role of Occam's Razor in Knowledge Discovery, Pedro Domingos, 1999](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/inductive_bias/The_Role_of_Occam_Razor_in_Knowledge_Discovery_Domingos_1999.pdf)
+
+[Ockham’s Razor, Truth, and Information, Kevin T. Kelly, CMU, 2008](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/inductive_bias/Ockham_Razor_Truth_and_Information_Kelly_2008.pdf)
+
+
 ### Kernel Methods, Support Vector Machines
 
 [Kernel Methods in Machine Learning, Thomas Hoffman, Bernhard Schoelkopf, Alexander J. Smolla, 2008](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Kernel_methods_in_Machine_Learning_Hoffman_Scholkopf_Smolla_2008.pdf)
