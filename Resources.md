@@ -38,7 +38,7 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 ## articles
 
-### Decision Trees
+### Decision and Regression Trees
 
 [The Mathematical Equivalence between Decision Trees and Artificial Neural Networks, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/decision_trees/Mathemaical_Equivalence_between_DecisionTrees_and_ANN_Allonco_2024.pdf)
 
