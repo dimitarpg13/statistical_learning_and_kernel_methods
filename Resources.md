@@ -42,6 +42,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [The Mathematical Equivalence between Decision Trees and Artificial Neural Networks, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/decision_trees/Mathemaical_Equivalence_between_DecisionTrees_and_ANN_Allonco_2024.pdf)
 
+[BART - Bayesian Additive Regression Trees, Hugh Chipman et al, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/regression_trees/BART_Bayesian_Additive_Regression_Trees_Hugh_2010.pdf)
+
 ### Statistical Learning and Inference
 
 [Boosting any learning algorithm with Statistically Enhanced Learning, Florian Felice et al, 2025](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/Boosting_any_learning_algorithm_with_Statistically_Enhanced_Learning_Felice_2025.pdf)
