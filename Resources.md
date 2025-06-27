@@ -42,6 +42,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 ### Decision and Regression Trees
 
+[Data Mining with Decision Trees: Theory and Applications, 2nd Edition, Lior Rokach, Oded Maimon, 2014](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/DataMiningwithDecisionTrees_Theory_and_Applications_2nd_ed_Rokach_Maimon_2014.pdf)
+
 [Classification Algorithms and Regression Trees, Chapter 11 of Nonlinear Estimation and Classification, Ingo Ruczinsky, 2003](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/Classification_Algorithms_and_Regression_Trees_Ingo_Ruszinsky.pdf)
 
 [Greedy Function Approximation: A Gradient Boosting Machine, JH Friedman, 2001](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/Greedy_Function_Approximation_A_Gradient_Boosting_Machine_Friedman_2001.pdf)
