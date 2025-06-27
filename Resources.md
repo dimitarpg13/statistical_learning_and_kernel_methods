@@ -36,6 +36,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Patterns, Predictions, and Actions, Moritz Hardt and Benjamin Recht, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Patterns_Predictions_and_Actions_Hardt_2024.pdf)
 
+[Gaussian Processes and Reproducing Kernels: Connections and Equivalences, Motonobu Kanagawa et al, 2025](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Gaussian_Processes_and_Reproducing_Kernels-Connections_and_Equivalences_Kanagawa_2025.pdf)
+
 ## articles
 
 ### Decision and Regression Trees
