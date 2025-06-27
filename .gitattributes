@@ -51,3 +51,4 @@ literature/articles/inductive_bias/the-lack-of-a-priori-distinctions-between-lea
 literature/articles/regression_trees/BART_Bayesian_Additive_Regression_Trees_Hugh_2010.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Gaussian_Processes_and_Reproducing_Kernels-Connections_and_Equivalences_Kanagawa_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/classification_and_regression/Classification_and_Regression_Trees_Rosenberg_NYC_2015.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/classification_and_regression/Classification_and_Regression_Trees_Wang_Zhe_2009.pdf filter=lfs diff=lfs merge=lfs -text
