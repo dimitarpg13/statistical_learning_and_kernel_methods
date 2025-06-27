@@ -42,9 +42,20 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 ### Decision and Regression Trees
 
+[Data Mining with Decision Trees: Theory and Applications, 2nd Edition, Lior Rokach, Oded Maimon, 2014](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/DataMiningwithDecisionTrees_Theory_and_Applications_2nd_ed_Rokach_Maimon_2014.pdf)
+
+[Classification Algorithms and Regression Trees, Chapter 11 of Nonlinear Estimation and Classification, Ingo Ruczinsky, 2003](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/Classification_Algorithms_and_Regression_Trees_Ingo_Ruszinsky.pdf)
+
+[Greedy Function Approximation: A Gradient Boosting Machine, JH Friedman, 2001](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/Greedy_Function_Approximation_A_Gradient_Boosting_Machine_Friedman_2001.pdf)
+
 [The Mathematical Equivalence between Decision Trees and Artificial Neural Networks, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/decision_trees/Mathemaical_Equivalence_between_DecisionTrees_and_ANN_Allonco_2024.pdf)
 
 [BART - Bayesian Additive Regression Trees, Hugh Chipman et al, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/regression_trees/BART_Bayesian_Additive_Regression_Trees_Hugh_2010.pdf)
+
+
+### Generalization in Machine Learning
+
+[Modeling Generalization in Machine Learning - A Methodological and Computational Study, Pietro Barbiero et al, Cambridge University, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/generalization/Modeling_Generalization_in_Machine_Learning-A_Methodoligical_and_Computational_Study_Barbiero_2020.pdf)
 
 ### Statistical Learning and Inference
 
