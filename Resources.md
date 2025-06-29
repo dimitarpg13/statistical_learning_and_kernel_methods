@@ -56,6 +56,10 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Bagging Predictors, Leo Breiman, Technical Report N 421, 1994](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/baggingBreiman.pdf)
 
+### Random Forests
+
+[Random Forests, Leo Breiman, UC Berkeley, 2001](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/randomforest2001.pdf)
+
 ### Generalization in Machine Learning
 
 [Modeling Generalization in Machine Learning - A Methodological and Computational Study, Pietro Barbiero et al, Cambridge University, 2020](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/generalization/Modeling_Generalization_in_Machine_Learning-A_Methodoligical_and_Computational_Study_Barbiero_2020.pdf)
