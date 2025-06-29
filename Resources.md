@@ -40,7 +40,7 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 ## articles
 
-### Decision and Regression Trees
+### Classification and Regression Trees
 
 [Data Mining with Decision Trees: Theory and Applications, 2nd Edition, Lior Rokach, Oded Maimon, 2014](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/DataMiningwithDecisionTrees_Theory_and_Applications_2nd_ed_Rokach_Maimon_2014.pdf)
 
@@ -52,6 +52,9 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [BART - Bayesian Additive Regression Trees, Hugh Chipman et al, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/regression_trees/BART_Bayesian_Additive_Regression_Trees_Hugh_2010.pdf)
 
+### Bagging Predictors
+
+[Bagging Predictors, Leo Breiman, Technical Report N 421, 1994](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/baggingBreiman.pdf)
 
 ### Generalization in Machine Learning
 
