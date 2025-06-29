@@ -46,13 +46,24 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Data Mining with Decision Trees: Theory and Applications, 2nd Edition, Lior Rokach, Oded Maimon, 2014](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/DataMiningwithDecisionTrees_Theory_and_Applications_2nd_ed_Rokach_Maimon_2014.pdf)
 
+[Decision Tree Learning, Chapter 3 of the book "Machine Learning" by Tom D. Mitchell, 1997](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/Decision_Tree_Learning_Chapter3_Tom_Mitchell.pdf)
+
 [Classification Algorithms and Regression Trees, Chapter 11 of Nonlinear Estimation and Classification, Ingo Ruczinsky, 2003](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/Classification_Algorithms_and_Regression_Trees_Ingo_Ruszinsky.pdf)
 
-[Greedy Function Approximation: A Gradient Boosting Machine, JH Friedman, 2001](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/Greedy_Function_Approximation_A_Gradient_Boosting_Machine_Friedman_2001.pdf)
+[Incremental Induction of Decision Trees, Paul E. Utgoff, UMass-Amherst, 1989](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/Incremental_Induction_of_Decision_Trees_Utgoff_1989.pdf)
+
+[Simplifying Decision Trees, JR Quinlan, MIT, 1987](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/Simplifying_Decision_Trees_JR_Quinlan_1987.pdf)
+
+[A Framework for Sensitivity Analysis of Decision Trees, Bogumil Kaminski et al, 2017](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/A_framework_for_sensitivity_analysis_of_decision_trees_Kaminski_2017.pdf)
 
 [The Mathematical Equivalence between Decision Trees and Artificial Neural Networks, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/decision_trees/Mathemaical_Equivalence_between_DecisionTrees_and_ANN_Allonco_2024.pdf)
 
 [BART - Bayesian Additive Regression Trees, Hugh Chipman et al, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/regression_trees/BART_Bayesian_Additive_Regression_Trees_Hugh_2010.pdf)
+
+### Gradient Boosting
+
+[Greedy Function Approximation: A Gradient Boosting Machine, JH Friedman, 2001](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/Greedy_Function_Approximation_A_Gradient_Boosting_Machine_Friedman_2001.pdf)
+
 
 ### Bagging Predictors
 
