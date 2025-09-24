@@ -40,6 +40,10 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Gaussian Processes and Reproducing Kernels: Connections and Equivalences, Motonobu Kanagawa et al, 2025](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/books/Gaussian_Processes_and_Reproducing_Kernels-Connections_and_Equivalences_Kanagawa_2025.pdf)
 
+## lecture notes
+
+[Optimization for Machine Learning, Lecture Notes CS-439, Spring 2025, Bernd Gartner, ETH, Martin Jaggi, EPFL](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/lecture_notes/Optimization_for_Machine_Learning_Gaertner_Lecture_Notes_CS-439_Spring_2025.pdf)
+
 ## articles
 
 ### Classification and Regression Trees
