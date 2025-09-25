@@ -62,3 +62,4 @@ literature/articles/classification_and_regression/Simplifying_Decision_Trees_JR_
 literature/articles/classification_and_regression/A_framework_for_sensitivity_analysis_of_decision_trees_Kaminski_2017.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/classification_and_regression/Defining_Decision_Analytics_Structure_von_Winterberg.pdf filter=lfs diff=lfs merge=lfs -text
 literature/lecture_notes/Optimization_for_Machine_Learning_Gaertner_Lecture_Notes_CS-439_Spring_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/The_Fundamentals_of_Heavy_Tails_Properties_Emergence_Estimation_Nair_2021_Draft.pdf filter=lfs diff=lfs merge=lfs -text
