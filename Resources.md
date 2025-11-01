@@ -204,6 +204,10 @@ related githib repo: https://github.com/Brett-Kennedy/AdditiveDecisionTree
 
 [Generalized Monotone Additive Latent Variable Models, Sylvain Sardy et al, U. of Geneva, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/additive_models/Generalized_monotone_additive_latent_variable_models_Sardy_2010.pdf)
 
+### Principal Component Analysis
+
+[A Geometric Analysis of PCA, Ayoub El Hanchi et al, U of Toronto, 2025](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/PCA/A_Geometric_Analysis_of_PCA_El_Hanchi_2025.pdf)
+
 ### kNN
 
 [Interpretable kNN (ikNN), W Brett Kennedy, May 2024](https://towardsdatascience.com/interpretable-knn-iknn-33d38402b8fc)
