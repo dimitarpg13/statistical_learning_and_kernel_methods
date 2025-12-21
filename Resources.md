@@ -44,6 +44,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 ## lecture notes
 
+[Lecture Notes on Linear Regression, Danillo Petti, U. of Essex, 2023-2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/lecture_notes/regression/Lecture_notes_in_Linear_Regression_Danilo_Petti_2023.pdf)
+
 [Optimization for Machine Learning, Lecture Notes CS-439, Spring 2025, Bernd Gartner, ETH, Martin Jaggi, EPFL](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/lecture_notes/Optimization_for_Machine_Learning_Gaertner_Lecture_Notes_CS-439_Spring_2025.pdf)
 
 ## articles
