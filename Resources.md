@@ -68,7 +68,6 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [BART - Bayesian Additive Regression Trees, Hugh Chipman et al, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/regression_trees/BART_Bayesian_Additive_Regression_Trees_Hugh_2010.pdf)
 
-[Learning the Kernel Matrix with Semidefinite Programming, Gert R.G. Lanckriet et al, 2004](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Learning_the_Kernel_Matrix_with_Semidefinite_Programming_Lancriet_2004.pdf)
 
 ### Gradient Boosting
 
@@ -110,6 +109,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 [Kernel Methods in Machine Learning, Thomas Hoffman, Bernhard Schoelkopf, Alexander J. Smolla, 2008](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Kernel_methods_in_Machine_Learning_Hoffman_Scholkopf_Smolla_2008.pdf)
 
 [Gentle Introduction to the Kernel Distance, JR Phillips et al, 2011](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/A_Gentle_Introduction_to_the_Kernel_Distance_Phillips_2011.pdf)
+
+[Learning the Kernel Matrix with Semidefinite Programming, Gert R.G. Lanckriet et al, 2004](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Learning_the_Kernel_Matrix_with_Semidefinite_Programming_Lancriet_2004.pdf)
 
 [A Tutorial on Support Vector Machines for Pattern Recongition, Christopher Burgess, 1998](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/svm/svmtutorial_Burgess_1998.pdf)
 
