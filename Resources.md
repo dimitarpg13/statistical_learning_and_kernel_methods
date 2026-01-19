@@ -68,6 +68,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [BART - Bayesian Additive Regression Trees, Hugh Chipman et al, 2010](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/regression_trees/BART_Bayesian_Additive_Regression_Trees_Hugh_2010.pdf)
 
+[Learning the Kernel Matrix with Semidefinite Programming, Gert R.G. Lanckriet et al, 2004](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/kernel_methods/Learning_the_Kernel_Matrix_with_Semidefinite_Programming_Lancriet_2004.pdf)
+
 ### Gradient Boosting
 
 [Greedy Function Approximation: A Gradient Boosting Machine, JH Friedman, 2001](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/Greedy_Function_Approximation_A_Gradient_Boosting_Machine_Friedman_2001.pdf)
