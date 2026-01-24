@@ -62,6 +62,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Simplifying Decision Trees, JR Quinlan, MIT, 1987](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/Simplifying_Decision_Trees_JR_Quinlan_1987.pdf)
 
+[Using Classification and Regression Trees (CART) and Random Forests to Analyze Attrition: Results From Two Simulations, Timothy Hayes et al, 20215](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/decision_trees/Using_Classification_and_Regression_Trees_and_Random_Forests_to_Analyze_Attrition-Results_From_Two_Simulations_Hayes_2015.pdf)
+
 [A Framework for Sensitivity Analysis of Decision Trees, Bogumil Kaminski et al, 2017](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/classification_and_regression/A_framework_for_sensitivity_analysis_of_decision_trees_Kaminski_2017.pdf)
 
 [The Mathematical Equivalence between Decision Trees and Artificial Neural Networks, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/decision_trees/Mathemaical_Equivalence_between_DecisionTrees_and_ANN_Allonco_2024.pdf)
