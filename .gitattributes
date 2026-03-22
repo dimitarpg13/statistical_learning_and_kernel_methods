@@ -65,3 +65,4 @@ literature/lecture_notes/Optimization_for_Machine_Learning_Gaertner_Lecture_Note
 literature/books/The_Fundamentals_of_Heavy_Tails_Properties_Emergence_Estimation_Nair_2021_Draft.pdf filter=lfs diff=lfs merge=lfs -text
 literature/lecture_notes/regression/Lecture_notes_in_Linear_Regression_Danilo_Petti_2023.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/decision_trees/Using_Classification_and_Regression_Trees_and_Random_Forests_to_Analyze_Attrition-Results_From_Two_Simulations_Hayes_2015.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/KAN/SINDy-KANs_Sparse_Identification_of_Non-Linear_Dynamics_Through_Kolmogorov-Arnold_Networks_Howard_2026.pdf filter=lfs diff=lfs merge=lfs -text
