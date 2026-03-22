@@ -199,6 +199,8 @@ repos with solutions for the book _"An Introduction to Statistical Learning with
 
 [Prediction via Shapley Value Regression, Amr Alkhatib et al, 2025](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/Prediction_via_Shapley_Value_Regression_Alkhatib_2025.pdf)
 
+[SINDy-KANs: Sparse Identification of Non-Linear Dynamics through Kolmogorov-Arnold Networks, Amanda A. Howard et al, 2026](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/KAN/SINDy-KANs_Sparse_Identification_of_Non-Linear_Dynamics_Through_Kolmogorov-Arnold_Networks_Howard_2026.pdf)
+
 ### Generalized Additive Models
 
 [Generalized Additive Models, T. Hastie, R. Tibshirani, 1986](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/literature/articles/additive_models/Generalized_Additive_Models_Hastie_1986.pdf)
